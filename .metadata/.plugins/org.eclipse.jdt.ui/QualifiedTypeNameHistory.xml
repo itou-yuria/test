@@ -2,4 +2,8 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="java.util.concurrent.SynchronousQueue"/>
 <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverAction"/>
+<fullyQualifiedTypeName name="java.sql.SQLDataException"/>
+<fullyQualifiedTypeName name="com.internousdev.webproj3.dao.InquiryCompleteDAO"/>
 </qualifiedTypeNameHistroy>

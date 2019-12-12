@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+C:\Users\internousdev\Desktop\workspace\workspace-itou\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1232000585.index
+3835806758.index
+3053735846.index
+248299227.index
+649610202.index
+3935533054.index

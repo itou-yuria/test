@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<item value="C:\Users\internousdev\Downloads\mysql-connector-java-5.1.48" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="C:\Users\testuser\Desktop\workspace\workspace-matsuda\test" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="1" key="layout"/>
 		<item value="true" key="group_libraries"/>
